@@ -10,8 +10,6 @@ In this project, you'll implement SLAM (Simultaneous Localization and Mapping) f
   <img src="./images/robot_world.png" width=50% height=50% />
 </p>
 
-The project will be broken up into three Python notebooks; the first two are for exploration of provided code, and a review of SLAM architectures, **only Notebook 3 and the `robot_class.py` file will be graded**:
-
 __Notebook 1__ : Robot Moving and Sensing
 
 __Notebook 2__ : Omega and Xi, Constraints 
